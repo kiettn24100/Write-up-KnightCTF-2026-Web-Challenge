@@ -1,6 +1,7 @@
-<img width="1490" height="334" alt="image" src="https://github.com/user-attachments/assets/27422491-fa88-4103-962f-1668c1a13a55" /># Write up WAF 
 
 Vào Chall thì nó cho mình một giao diện như vậy
+
+<img width="511" height="110" alt="image" src="https://github.com/user-attachments/assets/aba0babe-62eb-40fb-a62e-7926bd1bd01d" />
 
 
 Mình thử nhập vào `admin`
